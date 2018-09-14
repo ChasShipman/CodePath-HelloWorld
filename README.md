@@ -1,8 +1,6 @@
 # CodePath-HelloWorld
-Pre-work project. 
 
-## NAME_OF_YOUR_APP_HERE
-DemoApp
+## HelloWorld
 
 ### App Description
 This app is designed to serve as the pre-work submission for the code path app camp. 
