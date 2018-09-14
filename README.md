@@ -12,8 +12,7 @@ As this is a beginners demo, the features themselves are also simple and minimal
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://giphy.com/gifs/1BhD32dhhzCgY06ppa" width=200><br>
-<img src="https://giphy.com/embed/1BhD32dhhzCgY06ppa" width="246" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1BhD32dhhzCgY06ppa">via GIPHY</a></p>
+<img src="CodePathDemo.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
